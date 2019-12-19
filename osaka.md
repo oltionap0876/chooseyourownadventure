@@ -2,4 +2,4 @@
 ---
 #### [Stationary shopping](stationary.md)
 ---
-#### [Cat/dog cafe](cat/dogcafe.md)
+#### [Cat/dog cafe](catdogcafe.md)

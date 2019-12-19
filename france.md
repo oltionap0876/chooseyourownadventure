@@ -2,4 +2,4 @@
 ---
 #### [Paris](paris.md)
 ---
-#### Versailles](versailles.md)
+#### [Versailles](versailles.md)
