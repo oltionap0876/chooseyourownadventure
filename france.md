@@ -1,5 +1,5 @@
 ## Paris or Versailles?
 ---
-[Paris](paris.md)
+#### [Paris](paris.md)
 ---
-[Versailles](versailles.md)
+#### Versailles](versailles.md)

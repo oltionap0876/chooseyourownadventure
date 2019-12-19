@@ -2,8 +2,8 @@
 
 ## Choose what country you would like to go to!
 ---
-[Japan](japan.md)
+#### [Japan](japan.md)
 ---
-[France](france.md)
+#### [France](france.md)
 
 

@@ -1,5 +1,5 @@
 ## Tokyo or Osaka?
 ---
-[Tokyo](tokyo.md)
+#### [Tokyo](tokyo.md)
 ---
-[Osaka](osaka.md) 
+#### [Osaka](osaka.md) 

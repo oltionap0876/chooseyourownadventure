@@ -1,5 +1,5 @@
 ## Cafes or Spas?
 ---
-[Cafes](cafes.md)
+#### [Cafes](cafes.md)
 ---
-[Spas](spas.md) 
+#### [Spas](spas.md) 
