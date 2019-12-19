@@ -3,6 +3,7 @@
 ## Choose what country you would like to go to!
 ---
 [Japan](japan.md)
+---
 [France](france.md)
 
 
