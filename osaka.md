@@ -3,3 +3,6 @@
 #### [Stationary shopping](stationary.md)
 ---
 #### [Cat/dog cafe](catdogcafe.md)
+---
+
+### [Redo](home.md)

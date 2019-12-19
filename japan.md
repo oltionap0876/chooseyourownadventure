@@ -2,4 +2,7 @@
 ---
 #### [Tokyo](tokyo.md)
 ---
-#### [Osaka](osaka.md) 
+#### [Osaka](osaka.md)
+---
+
+### [Redo](home.md) 
