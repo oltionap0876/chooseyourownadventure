@@ -2,6 +2,6 @@
 ---
 [Click Here to Begin](home.md)
 ---
-[Click Here to see the diagram of this CYOA!](CYOA.png)
+![Click Here to see the diagram of this CYOA!](CYOA.png)
 
 ### Made By Oltiona Perovic.
