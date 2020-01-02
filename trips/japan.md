@@ -1,8 +1,8 @@
 ## Tokyo or Osaka?
 ---
-#### [Tokyo](tokyo.md)
+#### [Tokyo](trips/tokyo.md)
 ---
-#### [Osaka](osaka.md)
+#### [Osaka](trips/osaka.md)
 ---
 
 ### [Redo](home.md) 

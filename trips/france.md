@@ -1,8 +1,8 @@
 ## Paris or Versailles?
 ---
-#### [Paris](paris.md)
+#### [Paris](trips/paris.md)
 ---
-#### [Versailles](versailles.md)
+#### [Versailles](trips/versailles.md)
 ---
 
 ### [Redo](home.md)

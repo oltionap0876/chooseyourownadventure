@@ -1,8 +1,8 @@
 ## Cafes or Spas?
 ---
-#### [Cafes](cafes.md)
+#### [Cafes](trips/cafes.md)
 ---
-#### [Spas](spas.md) 
+#### [Spas](trips/spas.md) 
 ---
 
 ### [Redo](home.md)
